@@ -21,6 +21,7 @@ The server uses [MongoDB](https://www.mongodb.com/) as its database, dependency 
 - Seeds
 - Splicing seeds
 - World chat message
+- Equip / unequip clothes
 
 ## Contributors
 [I](https://github.com/zKevz) am the only one who contributes to this project currently. If you want to contribute, feel free to make pull request or issues. Any help is appreciated.
