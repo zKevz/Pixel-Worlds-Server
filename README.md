@@ -1,5 +1,5 @@
 # Pixel Worlds Server
-The first open-sourced Pixel Worlds Server, made in C# 6.0, providing the basic features of the game in well-structured, organized, reliable, and fast code.
+The first ever open-sourced Pixel Worlds Server, made in C# 6.0, provides the basic features of the game in well-structured, organized, reliable, and fast code.
 
 ## Dependencies
 The server uses [MongoDB](https://www.mongodb.com/) as its database, dependency injection code design, [log4net](https://logging.apache.org/log4net/) as its logging, and [7zip](https://github.com/adoconnection/SevenZipExtractor) for [lzma](https://7-zip.org/sdk.html) compression.
@@ -32,3 +32,7 @@ These people below are the ones who are helping me discover things. Shoutout:
 
 ## License
 The server uses [GPL3](https://www.gnu.org/licenses/gpl-3.0.html) as its license.
+
+## Help
+If you encounter an issue and is seeking for help, please join this discord server with the link below:
+https://discord.gg/J4qbskMfM3
