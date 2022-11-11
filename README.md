@@ -7,7 +7,7 @@ The server uses [MongoDB](https://www.mongodb.com/) as its database, dependency 
 ## Building The Project
 1. Make sure to have [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) and [MongoDB](https://www.mongodb.com/docs/manual/installation/) installed
 2. Compile the project
-3. If you are compiling from the command line, you need to copy the `PixelWorldsServerPixelWorldsServer.ServerData` directory into the executable directory. If you are using an IDE such as Visual Studio, those files will be automatically copied to the executable directory, so you don't need to do it manually.
+3. If you are compiling from the command line, you need to copy the `PixelWorldsServerPixelWorldsServer.Server\Data` directory into the executable directory. If you are using an IDE such as Visual Studio, those files will be automatically copied to the executable directory, so you don't need to do it manually.
 
 ## Game Features
 - Basic account with name aswell
